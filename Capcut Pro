@@ -1,0 +1,58 @@
+{
+  "packageName": "com.lemon.Ivoverseas",
+  "versionName": "24.0.0",
+  "forceUpdate": false,
+  "ExpiredDate": "2025/12/27 02:20",
+  "description": "Official Release v4.0 is out!\nNew UI elements and themes.\nEnhanced performance and stability.\n Subscription free download \n new update available best performance",
+  "buttonText": " DOWNLOAD ",
+  "buttonUrl": "https://t.me/TechWebuz",
+  "cancelButtonText": "Close",
+  "appListButton": {
+    "iconUrl1": "https://bit.ly/3SpVUFu",
+    "iconUrl2": "https://bit.ly/4gEvZDL"
+  },
+  "appList": [
+    {
+      "iconUrl": "https://bit.ly/icon_CapCut",
+      "appName": "CapCut PRO",
+      "appVersion": "26.0.0",
+      "url": "https://t.me/TechWebuz/101"
+    },
+    {
+      "iconUrl": "https://i.postimg.cc/6Q42DfwV/proton.png",
+      "appName": "PRoton VPN Pro",
+      "appVersion": "5.17.21",
+      "url": "https://t.me/TechWebuz"
+    },
+    {
+      "iconUrl": "https://i.postimg.cc/gkLCLwYg/inshot.png",
+      "appName": "Inshot PRO",
+      "appVersion": "2.213.1538",
+      "url": "https://t.me/TechWebuz"
+    },
+    {
+      "iconUrl": "https://i.postimg.cc/FsPYzBHr/kinemaster.png",
+      "appName": "Kinemaster Pro",
+      "appVersion": "8.0.6.35848.GP",
+      "url": "https://t.me/TechWebuz"
+    }
+  ],
+  "epicList": [
+    {
+      "iconUrl": "https://bit.ly/4ewLMlm",
+      "url": "https://t.me/TechWebuz"
+    },
+    {
+      "iconUrl": "https://bit.ly/4aUHS4T",
+      "url": "https://t.me/TechWebuz"
+    },
+    {
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png",
+      "url": "https://t.me/TechWebuz"
+    },
+    {
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png",
+      "url": "https://t.me/TechWebuz"
+    }
+  ]
+}
